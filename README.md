@@ -22,7 +22,7 @@ Simple pyhton imlimentation of Monty Hall Problem.
     
     
 
-###### Reference:
+##### References:
 
 - [Simulate the Monty Hall Problem Using Python](<https://medium.com/swlh/simulate-the-monty-hall-problem-using-python-7b76b943640e>)
-- [Solving the Monty Hall Problem With Python](<(https://betterprogramming.pub/solving-the-monty-hall-problem-with-python-46d3f63eadc3)>)
+- [Solving the Monty Hall Problem With Python](<https://betterprogramming.pub/solving-the-monty-hall-problem-with-python-46d3f63eadc3>)
