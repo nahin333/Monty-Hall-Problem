@@ -1,5 +1,6 @@
 # Monty-Hall-Problem
 Simple pyhton imlimentation of Monty Hall Problem.
+![alt text](https://i.ytimg.com/vi/DlphpbxNTLw/maxresdefault.jpg)
 
     Scenario #1 for always switching:
     1. You choose door #1
